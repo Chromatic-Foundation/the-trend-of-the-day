@@ -57,7 +57,7 @@ Licensee shall NOT, under any circumstances:
 7.1 This License is effective until terminated.  
 7.2 Licensee’s rights terminate immediately if Licensee breaches any provision of this License.  
 7.3 Upon termination, Licensee must cease all use, destroy all copies, and remove any Derivative Works of the Software.  
-7.4 Sections 4, 5, 6, 8, 9, 10, 11, 12, 13, and 14 survive termination.  
+7.4 Sections 4, 5, 6, 8, 9, 11, 12, 13, and 14 survive termination.  
 
 --------------------------------------------------------------------------------
 8. NO WARRANTY
@@ -72,29 +72,23 @@ Licensee shall NOT, under any circumstances:
 Licensee agrees to indemnify and hold harmless Chromatic Foundation from any claims, damages, losses, or liabilities arising from Licensee’s unauthorized use, redistribution, commercial use, or illegal activity involving the Software.  
 
 --------------------------------------------------------------------------------
-10. GOVERNING LAW AND JURISDICTION
+10. ENFORCEABILITY
 --------------------------------------------------------------------------------
-10.1 This License shall be governed by and construed in accordance with the laws of Romania.  
-10.2 Any disputes arising under this License shall be subject to the exclusive jurisdiction of the courts of Suceava, Romania.  
+10.1 If any provision is found invalid or unenforceable, it shall be modified to reflect the original intent while the remainder of the License remains in full force.  
 
 --------------------------------------------------------------------------------
-11. ENFORCEABILITY
+11. MONITORING AND AUDIT
 --------------------------------------------------------------------------------
-11.1 If any provision is found invalid or unenforceable, it shall be modified to reflect the original intent while the remainder of the License remains in full force.  
+11.1 Licensee agrees that Chromatic Foundation may request reasonable proof of compliance with this License.  
+11.2 Licensee shall provide access to code, copies, or documentation if requested solely for compliance verification purposes.  
 
 --------------------------------------------------------------------------------
-12. MONITORING AND AUDIT
+12. CHANGES TO LICENSE
 --------------------------------------------------------------------------------
-12.1 Licensee agrees that Chromatic Foundation may request reasonable proof of compliance with this License.  
-12.2 Licensee shall provide access to code, copies, or documentation if requested solely for compliance verification purposes.  
+12.1 Chromatic Foundation reserves the right to update or modify this License at any time.  
+12.2 Any changes apply **only to future access** of the Software; existing access remains under the version of the License accepted at the time of access.  
 
 --------------------------------------------------------------------------------
-13. CHANGES TO LICENSE
---------------------------------------------------------------------------------
-13.1 Chromatic Foundation reserves the right to update or modify this License at any time.  
-13.2 Any changes apply **only to future access** of the Software; existing access remains under the version of the License accepted at the time of access.  
-
---------------------------------------------------------------------------------
-14. ACCEPTANCE
+13. ACCEPTANCE
 --------------------------------------------------------------------------------
 By accessing, downloading, viewing, or modifying the Software in this GitHub repository, the Licensee agrees to be bound by the terms of this Chromatic License v3, Source-Code-Only Edition.
